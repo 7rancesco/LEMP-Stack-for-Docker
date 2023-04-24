@@ -1,8 +1,8 @@
 #LEMP Stack for Docker
 
 ## Install
-- git clone git@github.com:7rancesco/LEMP-Stack-for-Docker.git Your-Project-Name
-- docker compose up --build
+- git clone git@github.com/7rancesco/LEMP-Stack-for-Docker.git Your-Project-Name
+- run docker compose up --build
 - test on localhost
 
 ## Usage
@@ -10,4 +10,4 @@
 - - MYSQL_ROOT_PASSWORD
 - - MYSQL_DATABASE
 - Use /app as file manager
-- docker compose up
+- run docker compose up
