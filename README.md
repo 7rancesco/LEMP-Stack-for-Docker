@@ -1,7 +1,7 @@
 #LEMP Stack for Docker
 
 ## Install
-- git clone https://github.com/7rancesco/LEMP-Stack-for-Docker.git
+- git clone https://github.com/7rancesco/LEMP-Stack-for-Docker.git YOUR-PROJECT-NAME
 - run docker compose up --build
 - test on localhost
 
